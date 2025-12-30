@@ -1,0 +1,8 @@
+{
+  "name": "Copy of  FINALCL-2zzzz",
+  "description": "On-demand video consultancy marketplace for the London market, connecting elite experts with businesses for instant advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
